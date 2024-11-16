@@ -13,10 +13,6 @@
 - Deploy our app on firebase production
 - create SignUp User Account
 - Implemented signIn and signUp using firebase
-- put user profile on user login page 
-- Redirect user on browse page if user already login
-- get data from TMDB now playing movies
-- 
 
 #Features
 -Login/Signup
